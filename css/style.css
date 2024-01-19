@@ -17,7 +17,7 @@ body {
   opacity: 0;
 }
 div#invalidDiv {
-  color: red;
+  color: rgb(201, 148, 2);
 }
 .text-center {
   text-align: center !important;
@@ -336,7 +336,7 @@ h3.white {
   }
 }
 #top {
-  background: #e4c435;
+  background: #ad9110;
   color: #aaa;
   font-size: 0.928em;
 }
@@ -400,7 +400,7 @@ h3.white {
 }
 .pgl-navbar-main .navbar-nav > li > a {
   padding: 26px 20px;
-  color: #111;
+  color: #ad9110;
 }
 .pgl-navbar-main .navbar-nav > .active > a,
 .pgl-navbar-main .navbar-nav > .active > a:focus,
@@ -565,7 +565,7 @@ footer {
 }
 .pgl-upper-foot a:focus,
 .pgl-upper-foot a:hover {
-  color: #d84949 !important;
+  color: #ad9110 !important;
 }
 .pgl-upper-foot p {
   margin-bottom: 15px;
@@ -1975,7 +1975,7 @@ ul.project_header_icons li {
   list-style: none;
   padding: 3px 10px;
   cursor: pointer;
-  background: #ed1d24;
+  background: #ad9110;
   color: #fff !important;
 }
 ul.project_header_icons {
@@ -2027,7 +2027,7 @@ ul.project_header_icons li i {
   text-align: center;
   padding: 14px;
   background: #fff;
-  color: #b78c3d;
+  color: #ad9110;
   font-size: 20px;
 }
 .sidebar .form-group {
@@ -2487,7 +2487,7 @@ img.example-image {
   width: 100%;
   background: #fff;
   z-index: 1000;
-  box-shadow: 0 0 6px #ed1d24;
+  box-shadow: 0 0 6px #ad9110;
 }
 .fixed-sidebar {
   position: -webkit-sticky;
@@ -2795,7 +2795,7 @@ ul.nav.nav-top.navbar-right {
 }
 .content_flow a {
   font-weight: 800;
-  color: #b78c3d;
+  color: #ad9110;
 }
 .project_btns {
   clear: both;
@@ -2894,7 +2894,7 @@ span.info-icon {
   color: #fff;
   width: 42px;
   height: 42px;
-  background-color: #ed1f26;
+  background-color: #ad9110;
   margin-right: 15px;
   float: left;
   text-align: center;
@@ -3485,7 +3485,7 @@ input[type="file"] {
     color: #fff;
   }
   .mobile-bottom-content span {
-    background: #e8242c;
+    background: #ad9110;
     color: #fff;
     padding: 2px 9px;
     transform: rotate(90deg);
@@ -3494,7 +3494,7 @@ input[type="file"] {
     top: 50%;
   }
   .mobile-bottom-content.inner span {
-    background: #e8242c;
+    background: #ad9110;
     color: #fff;
     padding: 2px 9px;
     transform: rotate(90deg);
@@ -3503,7 +3503,7 @@ input[type="file"] {
     top: 45%;
   }
   .mobile-bottom-content span1 {
-    background: #e8242c;
+    background: #ad9110;
     color: #fff;
     padding: 2px 9px;
     transform: rotate(90deg);
@@ -4250,7 +4250,7 @@ footer p {
   text-align: center;
 }
 input#SubmitAgree {
-  background: #e8242c;
+  background: #ad9110;
   border: none;
   padding: 0 50px;
   margin: 0 auto;

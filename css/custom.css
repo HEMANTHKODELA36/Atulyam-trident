@@ -194,7 +194,7 @@
 }
 .side-navigation .social-media li a:hover {
   color: #fff;
-  background: #e8242c;
+  background: #ddc661;
 }
 .side-navigation.active {
   left: 0;
@@ -340,11 +340,11 @@ ul.gallery-new li {
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb {
-  background: #ff4b52;
+  background: #f8dc7e;
   border-radius: 10px;
 }
 ::-webkit-scrollbar-thumb:hover {
-  background: #e8242c;
+  background: #ffe030;
 }
 .carousel-caption {
   right: 3%;
@@ -456,8 +456,8 @@ ul.gallery-new li {
   background: -webkit-linear-gradient(
     90deg,
     #000000 0%,
-    #ed1d24 100%,
-    #ed1d24 100%
+    #ad9110 100%,
+    #ad9110 100%
   );
   background: linear-gradient(90deg, #000000 0%, #ed1c24 100%, #ee2b33 100%);
 }
@@ -781,7 +781,7 @@ ul.white_tab li a:hover {
   text-align: left !important;
 }
 .repparag {
-  background: #b38700;
+  background: #a38604;
   padding: 7px;
   color: #fff;
   font-weight: 500;
@@ -827,7 +827,7 @@ ul.white_tab li a:hover {
   padding: 10px 8px 95px;
 }
 .sidemenuul li a:hover {
-  color: #ed1d24;
+  color: #ad9110;
 }
 .ph-span {
   display: grid;
@@ -892,21 +892,21 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-left: 3px solid #b38700;
+  border-left: 3px solid #aa8c07;
 }
 .etclbindol {
   min-height: 170px;
 }
 .stevst:hover {
   color: #fff !important;
-  background: #ed1d24;
+  background: #ad9110;
   transition: 0.4s;
 }
 .inrpgetli:hover a {
-  color: #ed1d24 !important;
+  color: #ad9110 !important;
 }
 .inrpgetli:hover i {
-  color: #ed1d24 !important;
+  color: #ad9110 !important;
 }
 .nav .open > a:hover {
   background-color: #b78c3d;
@@ -969,7 +969,7 @@ ul.white_tab li a:hover {
   margin-bottom: 0px !important;
 }
 .nav .open > a:hover {
-  background-color: #b78c3d;
+  background-color: #af9814;
 }
 .bluetab > li.active > a,
 .bluetab > li.active > a:focus,
@@ -1013,7 +1013,7 @@ ul.white_tab li a:hover {
 .abtred > li.active > a,
 .abtred > li.active > a:focus,
 .abtred > li.active > a:hover {
-  background: #ed1d24 !important;
+  background: #ad9110 !important;
   color: #fff;
 }
 .abtsicn {
@@ -1140,7 +1140,7 @@ ul.white_tab li a:hover {
   background: #c21f56;
 }
 .glry-pr4 {
-  background: #ed1d24;
+  background: #ad9110;
 }
 .glry-pr5 {
   background: #84c63e;
@@ -1439,14 +1439,14 @@ ul.white_tab li a:hover {
 .slcnulwdth > li.active > a,
 .slcnulwdth > li.active > a:focus,
 .slcnulwdth > li.active > :hover {
-  background: #ed1d24 !important;
+  background: #ad9110 !important;
   color: #fff;
 }
 .sillkng {
   border-top: 1px solid #333 !important;
 }
 .raj-clr {
-  color: #ed1d24 !important;
+  color: #ad9110 !important;
 }
 .triple3 {
   color: #333 !important;
@@ -1460,7 +1460,7 @@ ul.white_tab li a:hover {
 .westavv > li.active > a,
 .westavv > li.active > a:focus,
 .westavv > li.active > a:hover {
-  background: #ed1d24;
+  background: #ad9110;
   color: #fff;
 }
 .nghp {
@@ -1483,7 +1483,7 @@ ul.white_tab li a:hover {
   padding-bottom: 80px;
 }
 .sidesubatrpu {
-  background: #ed1d24 !important;
+  background: #ad9110 !important;
   border: 1px solid #cccccc !important;
   padding: 0 18px !important;
   color: #fff !important;
@@ -1493,7 +1493,7 @@ ul.white_tab li a:hover {
   color: #333 !important;
 }
 .prpomain-ul li a:hover {
-  color: #ed1d24 !important;
+  color: #ad9110 !important;
 }
 .pgl-navbar-main .navbar-nav.project_nav > li > a:hover {
   background: #333;
@@ -1503,10 +1503,10 @@ ul.white_tab li a:hover {
   background: #537f2e !important;
 }
 .atnav:hover {
-  background: #c21f56 !important;
+  background: #ad9110 !important;
 }
 .etnav:hover {
-  background: #b78c3d !important;
+  background: #ad9110 !important;
 }
 .renav:hover {
   background: #1ea6e3 !important;
@@ -1522,7 +1522,7 @@ ul.white_tab li a:hover {
 }
 .anqcls {
   padding: 2px 10px !important;
-  background: red !important;
+  background: #ad9110 !important;
   color: #fff !important;
 }
 .prmcnt {
@@ -1625,10 +1625,10 @@ ul.white_tab li a:hover {
   font-size: 15px !important;
   padding: 0 !important;
   margin: 2px !important;
-  color: #ed1d24 !important;
+  color: #ad9110 !important;
 }
 .pdmdmnu:focus {
-  color: #ed1d24 !important;
+  color: #ad9110 !important;
 }
 .abt3h3 {
   margin-bottom: 10px;
@@ -1655,7 +1655,7 @@ ul.white_tab li a:hover {
   padding: 2px 10px;
 }
 .anelv {
-  background: #c21f56;
+  background: #ad9110;
   color: #fff;
   padding: 2px 10px;
 }
@@ -1851,7 +1851,7 @@ ul.white_tab li a:hover {
 }
 .recblgs {
   padding: 3px 0;
-  border-bottom: 2px solid #ed1d24;
+  border-bottom: 2px solid #ad9110;
 }
 .recblgs-h2 {
   text-align: center;
@@ -2055,7 +2055,7 @@ ul.white_tab li a:hover {
   background: #1b723f !important;
 }
 .atria-nav:hover {
-  background: #c21f56 !important;
+  background: #ad9110 !important;
 }
 .awhole-text {
   color: #fff;
@@ -2107,7 +2107,7 @@ ul.white_tab li a:hover {
 }
 .prhdngspaninret-atria {
   padding: 3px 0;
-  border-bottom: 2px solid #c21f56;
+  border-bottom: 2px solid #ad9110;
 }
 .atrianewbxab {
   background: #fff;
@@ -2117,7 +2117,7 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-right: 3px solid #c21f56;
+  border-right: 3px solid #ad9110;
 }
 .regnewbx-rmeaclbatria {
   background: #fff;
@@ -2127,7 +2127,7 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-left: 3px solid #c21f56;
+  border-left: 3px solid #ad9110;
 }
 .atrneitwpnts {
   padding-left: 15px;
@@ -2143,11 +2143,11 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-right: 3px solid #c22056;
+  border-right: 3px solid #ad9110;
 }
 .tqanch-br {
   font-weight: 900;
-  color: red;
+  color: #ad9110;
 }
 .atrianewbx-rmeang {
   background: #fff;
@@ -2157,7 +2157,7 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-left: 3px solid #c21f56;
+  border-left: 3px solid #ad9110;
 }
 .mission-bg {
   background: url(../images/qte-1.png);
@@ -2186,7 +2186,7 @@ ul.white_tab li a:hover {
   padding: 25px 15px;
 }
 .tqhh {
-  color: #ed1d24;
+  color: #ad9110;
   text-align: center;
   font-size: 30px;
   font-weight: 900;
@@ -2211,10 +2211,10 @@ ul.white_tab li a:hover {
 .rpblscc {
   width: 4%;
   top: 40%;
-  color: #ed1d24;
+  color: #ad9110;
 }
 .rpblscc:hover {
-  color: #ed1d24;
+  color: #ad9110;
 }
 .tq-dwnl-btns {
   padding: 75px;
@@ -2227,7 +2227,7 @@ ul.white_tab li a:hover {
   box-shadow: 0 0 20px 0 rgb(0 0 0 / 0.3);
 }
 .et-3bhk-rw {
-  background: #df252a;
+  background: #ad9110;
 }
 .et-4bhk-rw {
   background: #333;
@@ -2236,7 +2236,7 @@ ul.white_tab li a:hover {
   background: #505050;
 }
 .et-4bhk-rw:hover {
-  background: #f34348;
+  background: #ad9110;
 }
 .et-3bhk-rw a {
   color: #fff;
@@ -2254,7 +2254,7 @@ ul.white_tab li a:hover {
 }
 .slicdpopclose {
   margin-top: -30px;
-  color: red;
+  color: #ad9110;
 }
 .cindarw {
   top: 40%;
@@ -2345,11 +2345,11 @@ ul.white_tab li a:hover {
   background: #007cc4 !important;
 }
 .smtt-nav:hover {
-  background: #e91d24 !important;
+  background: #ad9110!important;
 }
 .prhdngspaninrsmtt {
   padding: 3px 0;
-  border-bottom: 2px solid #e91d24;
+  border-bottom: 2px solid #ad9110;
 }
 .crcptn-llsumt {
   right: 3%;
@@ -2366,7 +2366,7 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-right: 3px solid #e91d24;
+  border-right: 3px solid #ad9110;
 }
 .sumtnewbx-rmeaclb {
   background: #fff;
@@ -2376,7 +2376,7 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-left: 3px solid #e91d24;
+  border-left: 3px solid #ad9110;
 }
 .summitnewbxab {
   background: #fff;
@@ -2386,7 +2386,7 @@ ul.white_tab li a:hover {
   padding: 25px 30px;
   -webkit-box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
   box-shadow: 1px 1px 7px 2px rgba(173, 173, 173, 0.66);
-  border-right: 3px solid #e91d24;
+  border-right: 3px solid #ad9110;
 }
 .wa-nav:hover {
   background: #083c5c !important;
@@ -2420,7 +2420,7 @@ ul.white_tab li a:hover {
   right: 0;
   bottom: 8%;
   z-index: 1000;
-  box-shadow: 0 0 6px #ed1d24;
+  box-shadow: 0 0 6px #ad9110;
   border: 1px solid rgb(237 29 36 / 26%);
   filter: progid:DXImageTransform.Microsoft.BasicImage(rotation=3);
 }
@@ -2435,7 +2435,7 @@ ul.white_tab li a:hover {
   padding: 5px;
 }
 #feedback i {
-  color: red;
+  color: #ad9110;
   font-size: 18px;
 }
 #feedback p {
@@ -2474,7 +2474,7 @@ ul.white_tab li a:hover {
   color: #fff;
 }
 .dispa-in:hover {
-  background: #ed1d24;
+  background: #ad9110;
 }
 .spandis-ftr {
   padding-right: 50px;
@@ -2484,18 +2484,18 @@ ul.white_tab li a:hover {
   font-weight: 700;
 }
 .dismdlhdr {
-  background: #ed1d24;
+  background: #ad9110;
 }
 .disc-close:hover {
   color: #fff;
 }
 ::-moz-selection {
   color: #fff;
-  background: #e8242c;
+  background: #ad9110;
 }
 ::selection {
   color: #fff;
-  background: #e8242c;
+  background: #ad9110;
 }
 ::placeholder {
   color: #aaa !important;
@@ -3151,7 +3151,7 @@ ul.white_tab li a:hover {
     font-size: 14px;
   }
   .pgl-agent-item {
-    padding: 8px;
+    padding: 2px;
   }
   .qttbximg {
     width: 80px;
@@ -3293,8 +3293,8 @@ ul.white_tab li a:hover {
   background: -webkit-linear-gradient(
     90deg,
     #000000 0%,
-    #ed1d24 100%,
-    #ed1d24 100%
+    #ad9110 100%,
+    #ad9110 100%
   );
   background: linear-gradient(90deg, #000000 0%, #ed1c24 100%, #ee2b33 100%);
   overflow: hidden;
