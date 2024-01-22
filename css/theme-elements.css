@@ -31,7 +31,7 @@ h5 a:hover,
 h5 a:focus,
 h6 a:hover,
 h6 a:focus {
-    color: #ee1d25
+    color: #a27c3d
 }
 
 h1 {
@@ -649,7 +649,7 @@ hr {
 .label a {
     color: #fff;
     padding: 8px 15px;
-    background: #d9261c
+    background: #a27c3d
 }
 
 .label a:hover,
@@ -2355,14 +2355,14 @@ hr {
 
 .pgl-team-info:hover a {
     color: #ffffff !important;
-    background: #ef3d44
+    background: #a27c3d
 }
 
 .pgl-team-info a {
     color: #fff;
-    border: 1px solid #e8242c;
+    border: 1px solid #a27c3d;
     padding: 8px;
-    background: #e8242c
+    background: #a27c3d
 }
 
 .parallaxie-indpr {
@@ -2386,7 +2386,7 @@ hr {
 }
 
 .dfr {
-    border-top: 1px solid #e8242c;
+    border-top: 1px solid #a27c3d;
     position: absolute;
     z-index: 55;
     width: 84%;
@@ -2409,7 +2409,7 @@ hr {
     font-size: 36px;
     margin-bottom: 8px;
     display: inline-block;
-    color: #ff214f
+    color: #a27c3d
 }
 
 .counter .icon.clients {
@@ -2445,7 +2445,7 @@ hr {
 }
 
 .bg-pink {
-    background-color: #e8242c
+    background-color: #a27c3d
 }
 
 .margin-15px-top {
@@ -2464,7 +2464,7 @@ hr {
 }
 
 .bg-pink {
-    background-color: #ff214f
+    background-color: #a27c3d
 }
 
 .counter .icon.apartments {
@@ -2528,7 +2528,7 @@ hr {
 .inpttpe {
     background: #d7d7d7;
     border-radius: 4px;
-    box-shadow: -webkit-box-shadow:inset 0 0 24px -4px rgba(0, 0, 0, .75);
+    box-shadow: inset 0 0 24px -4px rgba(0, 0, 0, .75);
     -moz-box-shadow: inset 0 0 24px -4px rgba(0, 0, 0, .75);
     box-shadow: inset 0 0 24px -4px #b3b3b3;
     padding: 20px 12px;
@@ -2626,7 +2626,7 @@ hr {
     .label a {
         color: #fff;
         padding: 2px 5px;
-        background: #d9261c;
+        background: #a27c3d;
         font-size: 12px
     }
 
@@ -2683,7 +2683,7 @@ hr {
     }
 
     .dfr {
-        border-top: 0 solid #e8242c
+        border-top: 0 solid #a27c3d
     }
 
     .sidebarrr-ds {
